@@ -42,5 +42,4 @@ public class Student {
         return gpa;
     }
 
-
 }
