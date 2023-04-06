@@ -11,4 +11,5 @@ public class SchoolPractice {
 
         private ArrayList<student> enrolledStudents;
     }
+
 }
