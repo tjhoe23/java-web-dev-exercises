@@ -5,11 +5,11 @@ public class SchoolPractice {
         // Instantiate your Student class for part 2 here!
     }
 
-    public class Course {
-        private String topic;
-        private Teacher instructor;
-
-        private ArrayList<student> enrolledStudents;
-    }
+//    public class Course {
+//        private String topic;
+//        private Teacher instructor;
+//
+//        private ArrayList<student> enrolledStudents;
+//    }
 
 }
